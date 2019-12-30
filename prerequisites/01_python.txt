@@ -1,0 +1,3 @@
+virtualenv env: create virtual environment
+env\Script\activate.bat: activate virtual environment
+env\Script\deactivate.bat: deactivate virtual environment

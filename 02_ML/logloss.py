@@ -1,0 +1,1 @@
+# -log P(yt|yp) = -(yt log(yp) + (1 - yt) log(1 - yp))
